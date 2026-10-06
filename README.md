@@ -37,6 +37,7 @@ My work centers on developing intelligent software applications, orchestrating a
 [ AI Automation ]               ──> n8n workflows, LLM orchestration & API integrations
 [ Robotics & Embedded Systems ] ──> Sensor fusion, motor dynamics & control systems
 [ Software Development ]        ──> Dart / Flutter mobile apps & full-stack web platforms
+[ Web Development & Design ]        ──> Wordpress / clean mobile & desktop friendly designs.
 ```
 
 ---
